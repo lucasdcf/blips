@@ -51,7 +51,7 @@ And if the payee's wallet doesn't support including a "Name", still Alfred can m
 
 ## Universality
 
-This proposal lives in the application layer. It is not necessary for a lightning implementation to support/insert what the blip does here.
+NameDesc lives in the application layer. It is not necessary for a lightning implementation to support/insert what the bLIP does here.
 
 ## Backwards Compatibility
 
