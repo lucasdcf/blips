@@ -49,6 +49,14 @@ Description: Alfred:  payment for the ice cream you owed me
 
 And if the payee's wallet doesn't support including a "Name", still Alfred can manually type his name in the description field. Not the best experience in the world, but doable.
 
+## Universality
+
+This proposal lives in the application layer. It is not necessary for a lightning implementation to support/insert what the blip does here.
+
+## Backwards Compatibility
+
+This does not have backwards compatibility concerns
+
 ## Reference Implementations
 
 * Blixt: <https://github.com/hsjoberg/blixt-wallet/commit/e0ab93fdbaa92ec56bf920803bae22bf9108dfc4>
