@@ -22,7 +22,9 @@ This bLIP is licensed under the CC0 license.
 
 ## Motivation
 
-From a UX point of view, the recipient field allow for improvements in the transaction logs, like displaying 
+BOLT11 lets you include a description of an invoice. This is widely used across the ecosystem, however there's no coherent or conventional way to write an invoice description. 
+
+NameDesc provides a clear way on how to structure an invoice description that is helpful for the user and which the wallet can parse.
 
 ## Specification
 
