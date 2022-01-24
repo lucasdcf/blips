@@ -67,7 +67,7 @@ Using the same TLV type allow for podcast creators to understand the messages re
 
 The TLV type 7629169 was originally chosen by Breez and other applications adopted it to keep the same standard. 
 
-The required and recommended fields are constantly evolving by iterations from different Podcast 2.0 apps and from the Podcast 2.0 proponents at [PodcastIndex.org](https://podcastindex.org/). 
+The required and recommended fields are constantly evolving by iterations from different Podcast 2.0 apps. Some of these fields are related to the extensions proposed by [PodcastIndex.org](https://podcastindex.org/) to the RSS 2.0 spec in order to deliver new functionality to apps and aggregators ([the Podcast Namespace](https://github.com/Podcastindex-org/podcast-namespace))
 
 ## Universality
 
