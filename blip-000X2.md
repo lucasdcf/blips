@@ -71,7 +71,7 @@ The required and recommended fields are constantly evolving by iterations from d
 
 ## Universality
 
-Even if the authors intend for it to become a standard between Podcast 2.0 apps, it is not necessary for a lightning implementation to support/insert what the bLIP does here.
+This usage of the 7629169 TLV type is only intended for Lightning applications in the Podcasting 2.0 space. Lightning applications that do not intersect with Podcasting 2.0 have no need to implement this standard. Additionally, no additional work is required from a Lightning implementation itself beyond BOLT-specified TLV support in order to enable this use case at the application layer.
 
 ## Backwards Compatibility
 
